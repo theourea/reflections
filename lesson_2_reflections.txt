@@ -3,4 +3,10 @@
 The .git directory is created. It's step 0, you have to create a repository before you can put you stuff in there!
 
 
-2. 
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area contains files that will be added to the repository from the working directory on the next commit. It
+s like a spot for undo. 
+
+
+3. 
