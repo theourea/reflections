@@ -9,4 +9,14 @@ The staging area contains files that will be added to the repository from the wo
 s like a spot for undo. 
 
 
-3. 
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+Sometimes a change spans multiple files (moving up/down the stack). You can add each of these files to the staging
+area, and commit them together as a logical change.
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches might be could for trying out new ideas. Branches keep some changes out of the main branch, until your ready to add them.
+
+
+5. 
