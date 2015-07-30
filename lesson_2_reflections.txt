@@ -1,0 +1,6 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+
+The .git directory is created. It's step 0, you have to create a repository before you can put you stuff in there!
+
+
+2. 
