@@ -24,4 +24,9 @@ Branches might be could for trying out new ideas. Branches keep some changes out
 It makes it really obvious who the parent commit is. This allows you to see the commits like a directory tree.
 
 
-6. 
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is to combine the contents and commit history of the merged files. It shows that the two branches have become one.
+
+
+7. 
