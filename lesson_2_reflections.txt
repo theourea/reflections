@@ -29,4 +29,9 @@ It makes it really obvious who the parent commit is. This allows you to see the 
 The result is to combine the contents and commit history of the merged files. It shows that the two branches have become one.
 
 
-7. 
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pro is that it cuts down on work when the merge is obvious. Not sure what the con is, maybe it dosen't allways merge exactly what you want?
+
+
+8. 
